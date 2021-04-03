@@ -4,6 +4,7 @@
             <li><a href="">Quienes Somos</a></li>
             <li><a href="">Nosotros</a></li>
             <li><a href="">Contacto</a></li>
+            <li><a href="">Blog</a></li>
         </ol>
     </nav>
 </body>
